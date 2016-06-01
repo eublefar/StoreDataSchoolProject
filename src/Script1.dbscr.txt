@@ -1,0 +1,15 @@
+create user New Name 12345678901 Ul.Germanova-15
+create user Old Name 12345678901 Ul.Germanova-12
+create user Pizza Guy 12345678901 Ul.Germanova-14
+create user Peyer Griffin 12345678901 Ul.Germanova-16
+create user Bodybilder Silver 12345678901 Ul.Germanova-17
+create user Wolf Stan 12345678901 Ul.Germanova-12
+create user Carribiean Gangsta 12345678901 Ul.Germanova-1
+create user Ice Cube 12345678901 Ul.Germanova-567
+create user Steve Jobs 12345678901 Ul.Germanova-25
+create user Foo Bar 12345678901 Ul.Germanova-14
+create user Joe Fat 12345678901 Ul.Germanova-2
+deposit 3 20
+deposit 8 1000000
+transfer 8 3 50
+get user 
